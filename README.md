@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adé
+- 👋🏿 Hi, I’m Adé
 - 👀 I’m interested in product design roles; looking to collaborate with companies that create productivity tools that help empower people!
 - 🌱 I’m currently learning more indepth front-end skills ..
 - 📫 How to reach me: adeobayomi@gmail.com or www.adeobayomi.me
