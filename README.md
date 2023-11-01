@@ -1,5 +1,4 @@
-- 👋🏿 Hi, I’m Adé but you can call me Dede
-- 👀 I’m interested in product design roles; looking to collaborate with companies that create productivity tools that help empower people!
+- 👋🏿 Hi, I’m Adé but you can call me Dede (jk don't)
 - 🌱 I’m currently learning more indepth front-end skills ..
 - 📫 How to reach me: adeobayomi@gmail.com
 <!---
