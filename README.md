@@ -1,4 +1,4 @@
-- 👋🏿 Hi, I’m Adé but you can call me Dede (jk, don't; unless you want to, the world is your oyster 🤠)
+- 👋🏿 Hi, I’m Adé but you can call me Dede ( jk, don't; unless you want to, the world is your oyster 🤠 )
 - 🌱 I’m currently learning more indepth front-end skills..
 - 📫 How to reach me: adeobayomi@gmail.com
 <!---
